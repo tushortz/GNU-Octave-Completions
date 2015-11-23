@@ -18,7 +18,7 @@ Just type the words and the completion suggestions should show up. If you still 
 > Important: You need to have `Package Control` installed first on your sublime text which can be found at [The Package Contol Website](http://packagecontrol.io)
 
 
-> **Note:** For best result, you can disable [Matlab Completions](https://github.com/tushortz/Matlab-Completions/) (if installed) so that only the GUI methods would show up in the completion lists.
+> **Note:** For best result, you can disable [Matlab Completions](https://github.com/tushortz/Matlab-Completions/) (if installed) so that only the GNU Octave completion suggestions would show up in the completion lists.
 
 ## Installation
 > Important: You need to have `Package Control` installed first on your sublime text which can be found at [The Package Contol Website](http://packagecontrol.io).
