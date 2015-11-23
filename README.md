@@ -12,7 +12,10 @@ This Sublime text package gives method completion suggestions for [GNU Octave](h
 
 Just type the words and the completion suggestions should show up. If you still don't understand how to use it. Just flow along.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4e9af7a071c92b5fcea929751b81c0420dd4cd48
 > **Note:** For best result, you can disable Matlab Completions(if installed) so that only the GNU Octave completions would show up in the completion lists.
 
 ## Installation
@@ -65,5 +68,8 @@ Read **license.txt**
 
 ## Acknowledgements
 I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.
+<<<<<<< HEAD
 
 Thanks to [Lilian Besson](https://github.com/Naereen) also for his suggestions and contribution.
+=======
+>>>>>>> 4e9af7a071c92b5fcea929751b81c0420dd4cd48
