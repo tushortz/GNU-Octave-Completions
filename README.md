@@ -11,7 +11,7 @@ This Sublime text package gives method completion suggestions for GNU Octave.
 
 Just type the words and the completion suggestions should show up. If you still don't understand how to use it. Just flow along.
 
-> **Note:** For best result, you can disable Matlab Completions(if installed) so that only the GUI methods would show up in the completion lists.
+> **Note:** For best result, you can disable Matlab Completions(if installed) so that only the GNU Octave completions would show up in the completion lists.
 
 ## Installation
 > Important: You need to have `Package Control` installed first on your sublime text which can be found at [The Package Contol Website](http://packagecontrol.io)
