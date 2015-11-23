@@ -14,7 +14,11 @@ How to Use
 
 Just type the words and the completion suggestions should show up. If you still don't understand how to use it. Just flow along.
 
+<<<<<<< HEAD
 Note: For best result, you can disable Matlab Completions(if installed) so that only the GNU Octave commpletion options would show up in the completion lists.
+=======
+Note: For best result, you can disable Matlab Completions(if installed) so that only the GUI methods would show up in the completion lists.
+>>>>>>> 34e589efb14d9c30bbcc6de04b58e27dabaf2ac1
 
 
   Contributing
