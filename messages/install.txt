@@ -4,9 +4,9 @@ GNU Octave Completions (GnuOC)
 ==============================
 
 About
-======
+=====
 
-  This Sublime text package gives method completion suggestions for GNU Octave.
+  This Sublime Text (2 or 3) package gives method completion suggestions for GNU Octave.
 
 
 How to Use
@@ -14,17 +14,14 @@ How to Use
 
 Just type the words and the completion suggestions should show up. If you still don't understand how to use it. Just flow along.
 
-<<<<<<< HEAD
-Note: For best result, you can disable Matlab Completions(if installed) so that only the GNU Octave commpletion options would show up in the completion lists.
-=======
-Note: For best result, you can disable Matlab Completions(if installed) so that only the GUI methods would show up in the completion lists.
->>>>>>> 34e589efb14d9c30bbcc6de04b58e27dabaf2ac1
+Note: For best result, you can disable Matlab Completions (if installed) so that only the GUI methods would show up in the completion lists.
 
 
   Contributing
   =============
 
-    All contributions are welcome. Just fork it on Github <https://github.com/tushortz/GNU-Octave-Completions> and create a pull request.
+    All contributions are welcome.
+    Just fork it on Github (https://github.com/tushortz/GNU-Octave-Completions) and create a pull request.
 
   License
   ========
